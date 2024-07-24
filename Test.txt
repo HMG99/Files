@@ -1,0 +1,8 @@
+Ani,Amiryan,f,1999,88.9
+Hakob,Sargsyan,m,1992,64.7
+Ashot,Gevorgyan,m,1990,68.4
+karen,Araqelyan,m,2006,77.6
+Movses,Harutyunyan,m,2002,88.4
+Karine,Hambardzumyan,f,2004,70.3
+Youngest Girl: Karine Hambardzumyan 2004
+karen Araqelyan 2006|Karine Hambardzumyan 2004|Movses Harutyunyan 2002|Ani Amiryan 1999|Hakob Sargsyan 1992|Ashot Gevorgyan 1990|
